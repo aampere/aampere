@@ -7,7 +7,7 @@ I use Python for personal interest projects, and C++/Qt for larger projects.
 
 ### FastGrav  
 FastGrav is geophysical software package I created using C++/Qt. It is free to use on Mac/PC. Download, view documentation, and watch videos of FastGrav in action at [FastGrav.com](http://www.fastgrav.com).  
-FastGrav is used to forward-model microgravity anomalies from 3-dimensional subterranean bodies. The magnitude of gravity (~9.81m/s^2) actually varies minutely from location to location, and the structure and density of geological masses under the ground have significant impact on these variations. FastGrav allows the user to construct a 2D or 3D model and calculate and plot variations in gravity at the ground surface.  
+FastGrav is used to forward-model microgravity anomalies from 3-dimensional subterranean bodies. The magnitude of gravity (~9.81m/s<sup>2</sup>) actually varies minutely from location to location, and the structure and density of geological masses under the ground have significant impact on these variations. FastGrav allows the user to construct a 2D or 3D model and calculate and plot variations in gravity at the ground surface.  
   
 ### Personal Interest Projects  
 I include here several of my favorite personal interest projects from the last couple years.
