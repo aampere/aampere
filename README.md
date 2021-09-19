@@ -12,7 +12,7 @@ FastGrav is used to forward-model microgravity anomalies from 3-dimensional subt
 ### Personal Interest Projects  
 I include here several of my favorite personal interest projects from the last couple years.
 - Spotify projects: Playlist creation and manipulation using Python and the Spotify API.
-- Coinbase Pro projects: Automated trading and market info dashboards using Python and the Coinbase Pro API.
+- Coinbase Pro projects: Automated trading and market info dashboards using Python or C++ and the Coinbase Pro API.
 - Arduino Heliostat: A [heliostat](https://en.wikipedia.org/wiki/Heliostat) coded for Arduino/C++.
 
 ### Non-code Miscellaneous
