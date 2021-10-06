@@ -1,7 +1,7 @@
 ## Aaron Price
 
 ### Bio  
-I got into programming making Flash games c. 2010. (RIP Flash 😞)  
+I got into programming making Flash games c. 2009. (RIP Flash 😞)  
 I got degrees in Mathematics and Geoscience in 2014 at Trinity University, San Antonio TX.  
 I use Python for personal interest projects, and C++/Qt for larger projects.  
 
@@ -20,9 +20,3 @@ I include here several of my favorite personal interest projects from the last c
 - I also do ceramics in my free time.
 - Favorite videogames: The Witness, Obduction, Baba is You, Outer Wilds.
 - Favorite books: The Three-Body Problem, Till We Have Faces, The Wind-up Bird Chronicle.
-
-
-<!---
-aampere/aampere is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
